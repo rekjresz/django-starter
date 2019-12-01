@@ -1,2 +1,2 @@
 # django-starter
-awal project
+use pipenv to setup environtment
